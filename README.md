@@ -10,9 +10,9 @@
     <hr>
 # Customized Widgets look 👇
 <div >
-    <img src="/bmi_home.png" width="300px" height = "400px"</img>
+    <img src="/welcom.png" width="300px" height = "400px"</img>
 </div><div >
-    <img src="/bmi_result.png" width="300px" height = "400px"</img>
+    <img src="/chat.png" width="300px" height = "400px"</img>
 </div>
          
 <hr>
