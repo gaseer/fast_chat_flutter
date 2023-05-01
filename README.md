@@ -10,9 +10,8 @@
     <hr>
 # Customized Widgets look 👇
 <div >
-    <img src="/welcome.png" width="300px" height = "400px"</img>
-</div><div >
-    <img src="/chat.png" width="300px" height = "400px"</img>
+    <img src="/welcome.png" width="300px" height = "450px"</img>
+    <img src="/chat.png" width="300px" height = "450px"</img>
 </div>
          
 <hr>
