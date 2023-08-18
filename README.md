@@ -8,6 +8,19 @@
     <li>Screen Routes and Navigation</li>
     </ul>
     <hr>
+## Follow these steps to get the project up and running on your local machine:
+
+1. **Clone the repository:** `git clone https://github.com/your-username/awesome-flutter-project.git`
+2. **Navigate to the project folder:** `cd awesome-flutter-project`
+3. **Install dependencies:** `flutter pub get`
+4. **Run the app:** `flutter run`
+
+## Tech Stack
+
+- **Flutter:** The heart and soul of this app's UI.
+- **JavaScript:** Powering the app's interactive features and logic.
+- **Firebase:** Handling backend services like authentication and storage.
+
 # Customized Widgets look 👇
 <div >
     <img src="/welcome.png" width="300px" height = "450px"</img>
