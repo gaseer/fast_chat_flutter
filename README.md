@@ -14,7 +14,6 @@ Follow these steps to get the project up and running on your local machine:
 2. **Navigate to the project folder:** `cd awesome-flutter-project`
 3. **Install dependencies:** `flutter pub get`
 4. **Run the app:** `flutter run`
-
 ## Tech Stack
 
 - **Flutter:** The heart and soul of this app's UI.
