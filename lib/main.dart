@@ -7,6 +7,7 @@ import 'package:fast_chat_flutter/screens/chat_screen.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  
   await Firebase.initializeApp(
     options: const FirebaseOptions(
       apiKey: "AIzaSyAKWSCVoixP7YR5kOpqGfD2FTDc6V2ey5I",
@@ -15,6 +16,7 @@ Future main() async {
       projectId: "chat-flutter-472e5",
     ),
   );
+  
   runApp(FlashChat());
 }
 
