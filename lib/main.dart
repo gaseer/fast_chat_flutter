@@ -16,13 +16,11 @@ Future main() async {
       projectId: "chat-flutter-472e5",
     ),
   );
-  
   runApp(FlashChat());
 }
 
 class FlashChat extends StatelessWidget {
   const FlashChat({super.key});
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -39,5 +37,6 @@ class FlashChat extends StatelessWidget {
         RegistrationScreen.id: (context) => RegistrationScreen(),
       },
     );
+    
   }
 }
