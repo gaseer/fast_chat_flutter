@@ -15,7 +15,6 @@ Follow these steps to get the project up and running on your local machine:
 4. **Run the app:** `flutter run`
 5. Better
 ## Tech Stack
-
 - **Flutter:** The heart and soul of this app's UI.
 - **JavaScript:** Powering the app's interactive features and logic.
 - **Firebase:** Handling backend services like authentication and storage.
