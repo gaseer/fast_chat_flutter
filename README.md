@@ -20,7 +20,6 @@ Follow these steps to get the project up and running on your local machine:
 - **JavaScript:** Powering the app's interactive features and logic.
 - **Firebase:** Handling backend services like authentication and storage.
 
-
 # Customized Widgets look 👇
 <div >
     <img src="/welcome.png" width="300px" height = "450px"</img>
