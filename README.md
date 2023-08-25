@@ -7,7 +7,7 @@
     <li>Dart OOP concept</li>
     <li>Screen Routes and Navigation</li>
     </ul>
-    <hr>
+<hr>
 Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository:** `git clone https://github.com/your-username/awesome-flutter-project.git`
