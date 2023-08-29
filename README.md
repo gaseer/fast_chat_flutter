@@ -1,6 +1,4 @@
 # fast_chat_flutter
-
-
 ## Things I had Learned from this project:
 
 <ul>  
