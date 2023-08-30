@@ -2,7 +2,6 @@
 ## Things I had Learned from this project:
 
 <ul>  
-    
     <li>How to use Flutter packages to make complex app</li>
     <li>Fetching datas in realtime</li>
     <li>Dart OOP concept</li>
