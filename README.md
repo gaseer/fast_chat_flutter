@@ -7,7 +7,6 @@
     <li>Dart OOP concept</li>
     <li>Screen Routes and Navigation</li>
 </ul>
-
 <hr>
 Follow these steps to get the project up and running on your local machine:
 
