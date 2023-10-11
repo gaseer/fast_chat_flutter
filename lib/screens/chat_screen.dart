@@ -62,6 +62,7 @@ class _ChatScreenState extends State<ChatScreen> {
                 // _auth.signOut();
                 // Navigator.pop(context);
               }),
+          
         ],
         title: Text('⚡️Chat'),
         backgroundColor: Colors.lightBlueAccent,
