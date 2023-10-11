@@ -15,6 +15,7 @@ class ChatScreen extends StatefulWidget {
 }
 
 class _ChatScreenState extends State<ChatScreen> {
+  
   final txtCon = TextEditingController();
   late String masg;
   final _firestore = FirebaseFirestore.instance;
