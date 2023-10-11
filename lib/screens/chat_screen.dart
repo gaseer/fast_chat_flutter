@@ -7,7 +7,6 @@ import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 late User logUser;
 
-
 class ChatScreen extends StatefulWidget {
   static const id = 'Chat';
   @override
