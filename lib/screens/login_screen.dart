@@ -5,7 +5,6 @@ import '../components/roundedButton.dart';
 import 'chat_screen.dart';
 
 class LoginScreen extends StatefulWidget {
-  
   static const id = 'login';
   @override
   _LoginScreenState createState() => _LoginScreenState();
