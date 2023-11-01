@@ -10,6 +10,7 @@ class RegistrationScreen extends StatefulWidget {
   _RegistrationScreenState createState() => _RegistrationScreenState();
 }
 
+
 class _RegistrationScreenState extends State<RegistrationScreen> {
   bool showSpin = false;
   final _auth = FirebaseAuth.instance;
