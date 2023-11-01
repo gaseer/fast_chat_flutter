@@ -13,7 +13,6 @@ class ChatScreen extends StatefulWidget {
   _ChatScreenState createState() => _ChatScreenState();
 }
 
-
 class _ChatScreenState extends State<ChatScreen> {
   
   final txtCon = TextEditingController();
