@@ -19,7 +19,6 @@ class _WelcomeScreenState extends State<WelcomeScreen>
   void initState() {
     // TODO: implement initState
     super.initState();
-
     controller = AnimationController(
       duration: Duration(seconds: 2),
       vsync: this,
