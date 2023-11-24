@@ -9,8 +9,6 @@
 </ul>
 <hr>
 Follow these steps to get the project up and running on your local machine:
-
-
 1. **Clone the repository:** `git clone https://github.com/your-username/awesome-flutter-project.git`
 2. **Navigate to the project folder:** `cd awesome-flutter-project`
 3. **Install dependencies:** `flutter pub get`
