@@ -16,7 +16,6 @@ Future main() async {
       projectId: "chat-flutter-472e5",
     ),
   );
-  
   runApp(FlashChat());
 }
 
